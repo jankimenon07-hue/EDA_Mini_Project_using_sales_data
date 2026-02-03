@@ -55,3 +55,6 @@ The dataset used in this project is sourced from Kaggle and contains retail sale
 
 📌 The dashboard enables non-technical stakeholders to quickly understand trends, compare performance, and make informed business decisions.
 
+<p align="center">
+  <img src="Dashboards\Dashboard.png" width="800">
+</p>
